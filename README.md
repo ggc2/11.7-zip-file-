@@ -1,4 +1,4 @@
-![image](Documents\fintech\11.7-zip-file-\paypallogo.png)
+![image](paypallogo.png)
 
 # Paypal - The company that **REVOLUTIONAZED** online transactions.
 
