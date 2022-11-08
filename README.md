@@ -1,3 +1,9 @@
-# THIS WAS CHANGED
-Hello my name is Guillermo Gamez Cordova, I am 26 years old and I am currently enrolled in the Fintech Bootcamp in ASU. My plan is to learn how to code and open my sale for new career opporunities. 
-Thank you!! 
+![image](Documents\fintech\11.7-zip-file-\paypallogo.png)
+
+# Paypal - The company that **REVOLUTIONAZED** online transactions.
+
+## A Brief Story about the *CHANGE* Paypal made to the world. 
+
+Souces: [link](https://www.paypal.com/us/home)
+
+
